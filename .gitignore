@@ -1,0 +1,9 @@
+# Local data and build output
+.agents/
+backend/data/
+backend/*.db
+backend/*.db-*
+frontend/node_modules/
+frontend/dist/
+frontend/coverage/
+*.log
